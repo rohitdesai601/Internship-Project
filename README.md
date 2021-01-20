@@ -1,4 +1,6 @@
-# Internship-Projectwe required following files:-
+# Internship-Project
+
+we required following files:-
 
 YOLO3-SPP.weights
 YOLO3.config
